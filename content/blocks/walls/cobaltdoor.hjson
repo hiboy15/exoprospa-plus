@@ -1,0 +1,9 @@
+type: Door
+name: Cobalt door
+requirements: [
+    exoprospa-c01a-01-item-cobalt/40
+]
+research: Exoprospa-08h-02-cobalt-wall-large
+description: lets allied units exit or enter a base by this block
+health: 120
+details: recovered tech from the astral.
