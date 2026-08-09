@@ -1,7 +1,7 @@
 name: Exosporopapp
-displayName: Exoprospa+
-description: A expansion to Exosporopa that unlocks its moon named teresa. 
+displayName: exoprosopa+
+description: A expansion to exoprosopa that unlocks its moon named teresa. 
 minGameVersion: 154
 version: 1
 subtitles: Ice colder than ice.
-dependencies: [ Exoprospa ]
+dependencies: [ exoprosopa ]
